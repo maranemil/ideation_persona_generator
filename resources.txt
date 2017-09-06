@@ -1,0 +1,55 @@
+// https://raw.githubusercontent.com/Skeldir/German-Name-Generator/master/nachnamen_deutsch
+
+var nachname = {["M\u00fcller "," Schmidt "," Schneider "," Fischer "," Weber"," Meyer"," Wagner"," Becker"," Schulz"," Hoffmann"," Sch\u00e4fer"," Bauer"," Koch"," Richter"," Klein"," Wolf"," Schr\u00f6der"," Neumann"," Schwarz"," Braun"," Hofmann"," Zimmermann"," Schmitt"," Hartmann"," Kr\u00fcger"," Schmid"," Werner"," Lange"," Schmitz"," Meier"," Krause"," Maier"," Lehmann"," Huber"," Mayer"," Herrmann"," K\u00f6hler"," Walter"," K\u00f6nig"," Schulze"," Fuchs"," Kaiser"," Lang"," Wei\u00df"," Peters"," Scholz"," Jung"," M\u00f6ller"," Hahn"," Keller"," Vogel"," Schubert"," Roth"," Frank"," Friedrich"," Beck"," G\u00fcnther"," Berger"," Winkler"," Lorenz"," Baumann"]}
+
+
+// https://raw.githubusercontent.com/Skeldir/German-Name-Generator/master/vornamen_w_deutsch
+
+var vorname_f = ["Andrea"," Jennifer"," Melanie"," Angelika"," Jessica"," Jessika","\r\nMichelle"," Anja"," Julia"," Monika"," Anke"," Juliane"," Nadine"," Anna"," Anne"," Karin"," Nicole","\r\nAnnett"," Karolin"," Petra"," Antje"," Katharina"," Sabine"," Barbara"," Kathrin"," Katrin"," Sabrina"," \r\nBirgit"," Katja"," Sandra"," Brigitte"," Kerstin"," Sara"," Sarah"," Christin"," Klaudia"," Silke"," \r\nChristina"," Christine"," Kristin"," Simone"," Claudia"," Laura"," Sophia"," Sophie"," Daniela"," Lea"]
+
+
+// https://raw.githubusercontent.com/Skeldir/German-Name-Generator/master/vornamen_m_deutsch
+
+var vorname_m = ["Dennis"," Jan"," Alexander"," Dieter"," Jens"," Andreas"," Dirk"," Jonas"," Benjamin"," Dominik"," J\u00f6rg"," Bernd"," Eric"," Erik"," J\u00fcrgen"," Christian"," Felix"," Kevin"," Daniel"," Florian"," Klaus"," David"," Frank"," Kristian"," Leon"," Mike"," Maik"," Steffen"," Lukas"," Niklas"," Sven"," Swen"," Marcel"," Patrick"," Thomas"," Marco"," Marko"," Paul"," Thorsten"," Torsten"," Mario"," Peter"," Tim"," Markus"," Philipp"," Phillipp"," Tobias"," Martin"," Ralf"," Ralph"," Tom"," Mathias"," Matthias"," Ren\u00e9"," Ulrich"," Max"," Robert"," Uwe"," Maximilian"]
+
+
+https://raw.githubusercontent.com/MoritzStefaner/ach-ingen-zell/master/src/data/placenames_de.tsv
+
+// https://developers.google.com/places/supported_types
+
+var locations = ["accounting"," airport"," amusement_park"," aquarium"," art_gallery"," atm"," bakery"," bank"," bar"," beauty_salon"," bicycle_store"," book_store"," bowling_alley"," bus_station"," cafe"," campground"," car_dealer"," car_rental"," car_repair"," car_wash"," casino"," cemetery"," church"," city_hall"," clothing_store"," convenience_store"," courthouse"," dentist"," department_store"," doctor"," electrician"," electronics_store"," embassy"," establishment (verworfen)"," finance (verworfen)"," fire_station"," florist"," food (verworfen)"," funeral_home"," furniture_store"," gas_station"," general_contractor (verworfen)"," grocery_or_supermarket (verworfen)"," gym"," hair_care"," hardware_store"," health (verworfen)"," hindu_temple"," home_goods_store"," hospital"," insurance_agency"," jewelry_store"," laundry"," lawyer"," library"," liquor_store"," local_government_office"," locksmith"," lodging"," meal_delivery"," meal_takeaway"," mosque"," movie_rental"," movie_theater"," moving_company"," museum"," night_club"," painter"," park"," parking"," pet_store"," pharmacy"," physiotherapist"," place_of_worship (verworfen)"," plumber"," police"," post_office"," real_estate_agency"," restaurant"," roofing_contractor"," rv_park"," school"," shoe_store"," shopping_mall"," spa"," stadium"," storage"," store"," subway_station"," synagogue"," taxi_stand"," train_station"," transit_station"," travel_agency"," university"," veterinary_care"," zoo"]
+
+
+100 Most Common English Verbs List
+https://www.linguasorb.com/english/verbs/most-common-verbs/4
+https://www.linguasorb.com/english/verbs/most-common-verbs/1
+https://www.englishclub.com/vocabulary/regular-verbs-list.htm
+
+https://www.englishclub.com/vocabulary/irregular-verbs-list.htm
+
+
+["use"," work"," call "," feel "," need"," leave "," keep "," move "," write "," sit "," pay "," lose "," meet "," learn "," watch "," change "," follow "," create"," stop "," speak "," eat "," produce "," read "," spend "," support "," grow "," has"," walk "," buy "," send "," build "," choose"," sell "]
+
+
+
+http://www.saunalahti.fi/michi1/uebungen/subliste.htm
+http://adjective1.com/for-shopping/
+
+
+http://www.ef.de/englisch-hilfen/englische-vokabellisten/50-nomen/
+
+["area"," book"," business"," case"," child"," company"," country"," day"," eye"," fact"," family"," government"," group"," hand"," home"," job"," life"," lot"," man"," money"," month"," mother"," night"," number"," part"," people"," place"," point"," problem"," program"," question"," right"," room"," school"," state"," story"," student"," study"," system"," thing"," time"," water"," way"," week"," woman"," word"," work"," world"," year",""]
+
+http://www.saunalahti.fi/michi1/uebungen/subliste.htm
+
+var subst_m = ["Anruf"," Anzug"," Apfel"," April"," Arm"," Arzt"," August"," Ausweis"," Bahnhof"," Balkon"," Baum"," Berg"," Beruf"," Bildschirm"," Bus"," Computer"," Dezember"," Dienstag"," Durst"," Drucker"," Eintrittskarte"," Einwohner"," Fahrschein"," Februar"," Fernseher"," Finger"," Flughafen"," Flur"," Fr\u00fchling"," F\u00fcller"," Fu\u00df"," Fu\u00dfboden"," Garten"," Gast"," Geburtstag"," Hafen"," Hamburger"," Herbst"," Herr"," Himmel"," Hut"," Hunger"," Januar"," Juli"," Juni"," Kaffee"," Kakao"," Keller"," Kellner"," Kleiderhaken"," Koch"," Kognak"," Kuchen"," Kugelschreiber"," Kuchen"," Kunde"," Laden"," Lehrer"," Locher"," L\u00f6ffel"," Mai"," M\u00e4rz"," Mann"," Markt"," Marktplatz"," Monitor"," Name"," November"," Oktober"," Opa"," Park"," Pass"," Passant"," Platz"," Projektor"," Pullover"," Radiergummi"," Regen"," Rock"," Schinken"," Schl\u00fcssel"," Schnaps"," Schnee"," Schrank"," September"," Sessel"," Sommer"," Star"," Strumpf"," Stuhl"," Supermarkt"," Tag"," Tee"," Teppich"," Test"," Tisch"," Tourist"," Urlaub"," Vater"," Wagen"," Wein"," Wind"," Winter"," Wunsch"," Zeiger"," Zucker"," Zug"," Zuschauer"]
+
+var subst_f = ["Adresse"," Apfelsine"," Apotheke"," Bank"," Bankkarte"," Bedienung"," Beschreibung"," Bestellung"," Bibliothek"," Bluse"," Brille"," Br\u00fccke"," City"," Cola"," Decke"," Diskette"," Dolmetscherin"," Dose"," Dusche"," Eile"," Einladung"," Etage"," Fahrkarte"," Festung"," Fotografie"," Frage"," Funktion"," Gabel"," Garage"," Gardine"," Gasse"," Gitarre"," Gr\u00f6\u00dfe"," Hilfe"," Hose"," H\u00fctte"," Information"," Kasse"," Kassette"," Kirche"," Krawatte"," Kreditkarte"," Kreide"," K\u00fcche"," Kultur"," Lampe"," Landkarte"," Landschaft"," Mandarine"," Maschine"," Maus"," Milch"," Mutter"," M\u00fctze"," Nachricht"," Nacht"," Nase"," Natur"," Nummer"," Oma"," Oper"," Ordnung"," Pause"," Pflanze"," Pizza"," Polizistin"," Post"," Postkarte"," Pr\u00fcfung"," Reparatur"," Reservierung"," Sache"," Sahne"," Schule"," Sehensw\u00fcrdigkeit"," SMS"," Socke"," Sonne"," Stra\u00dfe"," Stra\u00dfenbahn"," Tasche"," Tasse"," Toilette"," Torte"," U-Bahn"," \u00dcberraschung"," \u00dcbung"," Uhr"," Umwelt"," Universit\u00e4t"," Verbindung"," Wand"," Wanderung"," Welt"," Werbung"," Werkstatt"," Wirtschaft"," Woche"," Wurst"," Zeitung"]
+
+var subst_n = ["Auge"," Auto"," Bad"," Bein"," Bett"," Bier"," Bild"," Br\u00f6tchen"," Buch"," Caf\u00e9"," Einkaufszentrum"," Fahrrad"," Fest"," Flugzeug"," Foto"," Fr\u00e4ulein"," Fr\u00fchst\u00fcck"," Gef\u00fchl"," Gem\u00fcse"," Gesch\u00e4ft"," Glas"," Gleis"," Handy"," Haus"," Heft"," Hemd"," Hotel"," Huhn"," K\u00e4nnchen"," Internet"," Kind"," Kino"," Kleid"," Klo"," Leben"," M\u00e4dchen"," Messer"," Motorrad"," Museum"," Radio"," Regal"," Restaurant"," Schiff"," Schnitzel"," Sofa"," Spiel"," Steak"," St\u00fcck"," Taxi"," Telefon"," Theater"," Ticket"," Tonbandger\u00e4t"," Warenhaus"," Wasser"," Wetter"," Wunder"]
+
+
+
+http://foerdefluesterer.de/locations
+
+var location = ["Club-Haus"," Alter Bahnhof"," Alter Botanischer Garten"," Alter Markt"," Altstadt"," Kirche"," Antiquariat Lesart"," Aquarium"," Platz"," Bar"," Atelier"," Park"," Autohaus","Cafe Bar","Cinemax","Galerie","Hotel", "Museum", "Pizzeria","Restaurant"]

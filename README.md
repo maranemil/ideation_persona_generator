@@ -1,12 +1,11 @@
-# ideation_persona_generator
+# Ideation Persona Generator IDEA
 Persona Random Generator for Ideation 
 
 
-Ideation Persona Generator IDEA
-
-To Generate: 
-Person - > attribute ( age, name, married, childern,  )
-Location (town, shop, .... )
-Situation ( verb - shopping, taking   )
-Substantives
-Problem
+To Generate:
+ 
+* Person - > attribute ( age, name, married, childern,  )
+* Location (town, shop, .... )
+* Situation ( verb - shopping, taking   )
+* Substantives
+* Problems

@@ -53,3 +53,32 @@ var subst_n = ["Auge"," Auto"," Bad"," Bein"," Bett"," Bier"," Bild"," Br\u00f6t
 http://foerdefluesterer.de/locations
 
 var location = ["Club-Haus"," Alter Bahnhof"," Alter Botanischer Garten"," Alter Markt"," Altstadt"," Kirche"," Antiquariat Lesart"," Aquarium"," Platz"," Bar"," Atelier"," Park"," Autohaus","Cafe Bar","Cinemax","Galerie","Hotel", "Museum", "Pizzeria","Restaurant"]
+
+
+
+
+
+
+
+
+https://github.com/sankarvema/Ideation
+https://github.com/joausaga/social-ideation # django
+https://github.com/Dshlyuger/Ideation # html nodejs
+https://github.com/baiin/ideation # js
+
+https://github.com/pmani88/ideationspace # cakephp php
+https://github.com/thanethomson/openideate # java
+https://github.com/arcoym/IdeationStorm # js
+https://github.com/sankarvema/Ideation-Portal # php
+https://github.com/appsflare/ideation-api # js node
+https://github.com/interlock/ideation-app # ruby
+https://github.com/lamborghinigit/ideation360_android # java android
+https://github.com/neilkam/Scratchboard # ruby
+https://github.com/drasamsetti/docker-lamp-ideation-portal # sh
+https://github.com/culturegraphic/ideapp # css
+https://github.com/haejeong87/Telebears # js node
+https://github.com/jareilly/NameGenerator # java
+https://github.com/christabor/namebot # python
+https://github.com/jareilly/NameGenerator # java
+https://github.com/Skeldir/German-Name-Generator # py
+https://github.com/zikula-modules/Locations # php

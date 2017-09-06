@@ -6,11 +6,16 @@
 </head>
 <body>
 
+
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
 <script>
 
     // https://jsfiddle.net/
+    // https://jquery.com/download/
+    // http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/
 
-    var anrede = ["Frau", "Herr"]
+    var anrede = ["Frau", "Herr"];
 
     var nachname = ["M\u00fcller ", " Schmidt ", " Schneider ", " Fischer ", " Weber", " Meyer", " Wagner", " Becker", " Schulz", " Hoffmann", " Sch\u00e4fer", " Bauer", " Koch", " Richter", " Klein", " Wolf", " Schr\u00f6der", " Neumann", " Schwarz", " Braun", " Hofmann", " Zimmermann", " Schmitt", " Hartmann", " Kr\u00fcger", " Schmid", " Werner", " Lange", " Schmitz", " Meier", " Krause", " Maier", " Lehmann", " Huber", " Mayer", " Herrmann", " K\u00f6hler", " Walter", " K\u00f6nig", " Schulze", " Fuchs", " Kaiser", " Lang", " Wei\u00df", " Peters", " Scholz", " Jung", " M\u00f6ller", " Hahn", " Keller", " Vogel", " Schubert", " Roth", " Frank", " Friedrich", " Beck", " G\u00fcnther", " Berger", " Winkler", " Lorenz", " Baumann"];
 
@@ -26,6 +31,10 @@
 
     var subst_n = [" Auto", " Bad", " Bein", " Bett", " Bier", " Bild", " Br\u00f6tchen", " Buch", " Caf\u00e9", " Einkaufszentrum", " Fahrrad", " Fest", " Flugzeug", " Foto", " Fr\u00e4ulein", " Fr\u00fchst\u00fcck", " Gef\u00fchl", " Gem\u00fcse", " Gesch\u00e4ft", " Glas", " Gleis", " Handy", " Haus", " Heft", " Hemd", " Hotel", " K\u00e4nnchen", " Internet", " Kind", " Kino", " Kleid", " Leben", " M\u00e4dchen", " Motorrad", " Museum", " Radio", " Regal", " Restaurant", " Schiff", " Schnitzel", " Sofa", " Spiel", " St\u00fcck", " Taxi", " Telefon", " Theater", " Ticket", " Tonbandger\u00e4t", " Warenhaus", " Wetter"]
 
+    /**
+     *
+     * @returns {string}
+     */
     function generatePersona() {
         var strout = ""
         var genderout = anrede[Math.floor(Math.random() * anrede.length)]
@@ -53,6 +62,11 @@
         return strout;
     }
 
+    /**
+     *
+     * @param loop
+     * @returns {string}
+     */
     function loopPersona(loop) {
         var strloop = "";
         for (var i = 0; i <= loop; i++) {

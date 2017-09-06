@@ -1,4 +1,4 @@
-# Ideation Persona Generator IDEA
+# Ideation Persona Random Generator - IDEA
 Persona Random Generator for Ideation 
 
 

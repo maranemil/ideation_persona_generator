@@ -61,7 +61,7 @@ var location = ["Club-Haus"," Alter Bahnhof"," Alter Botanischer Garten"," Alter
 
 
 
-https://github.com/sankarvema/Ideation
+https://github.com/sankarvema/Ideation # js
 https://github.com/joausaga/social-ideation # django
 https://github.com/Dshlyuger/Ideation # html nodejs
 https://github.com/baiin/ideation # js
@@ -80,5 +80,5 @@ https://github.com/haejeong87/Telebears # js node
 https://github.com/jareilly/NameGenerator # java
 https://github.com/christabor/namebot # python
 https://github.com/jareilly/NameGenerator # java
-https://github.com/Skeldir/German-Name-Generator # py
+https://github.com/Skeldir/German-Name-Generator # python
 https://github.com/zikula-modules/Locations # php

@@ -82,3 +82,54 @@ https://github.com/christabor/namebot # python
 https://github.com/jareilly/NameGenerator # java
 https://github.com/Skeldir/German-Name-Generator # python
 https://github.com/zikula-modules/Locations # php
+
+
+
+
+
+
+# shell editor
+https://www.shellcheck.net/
+https://www.tutorialspoint.com/execute_bash_online.php
+
+https://www.tutorialspoint.com/unix/unix-using-arrays.htm
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html
+
+
+# c editor
+http://codepad.org/
+
+http://www.programmingsimplified.com/c-program-examples
+https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/
+https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/
+http://www.dummies.com/programming/c/c-for-dummies-cheat-sheet-2/
+http://www.programmingsimplified.com/c-program-examples
+
+c++
+http://www.cplusplus.com/doc/tutorial/
+http://www.cplusplus.com/doc/tutorial/arrays/
+http://cplusplus.happycodings.com/
+http://cplusplus.happycodings.com/algorithms/
+http://cplusplus.happycodings.com/code-snippets/
+http://fahad-cprogramming.blogspot.de/p/c-simple-examples.html
+http://fahad-cprogramming.blogspot.de/p/c-simple-examples.html
+https://www.cheatography.com/leupi/cheat-sheets/c-cheatsheet-inc-c-2011/
+
+---
+
+https://www.cheatography.com/apk/cheat-sheets/coffeescript-language/
+https://www.cheatography.com/lewiseason/cheat-sheets/django-models/
+https://www.cheatography.com/gregfinzer/cheat-sheets/angular-material-2/
+https://www.cheatography.com/sonyapur/cheat-sheets/aritificial-intelligence-cheat-sheet/
+https://www.cheatography.com/thenewcoke/cheat-sheets/coldfusion-member-functions/
+https://www.cheatography.com/raffi001/cheat-sheets/nodejs/
+https://www.cheatography.com/gregfinzer/cheat-sheets/typescript/
+https://www.cheatography.com/sefergus/cheat-sheets/java-midterm/
+https://www.cheatography.com/simon-fermor/cheat-sheets/ruby-essentials-for-kids/
+https://www.cheatography.com/cheatography/cheat-sheets/c/
+https://www.cheatography.com/wazanator/cheat-sheets/visual-studio-2013-community/
+https://www.cheatography.com/gregfinzer/cheat-sheets/angular-2/
+https://www.cheatography.com/cheatography/cheat-sheets/lua-5-1-c-api/
+https://www.cheatography.com/laurence/cheat-sheets/c/
+https://www.cheatography.com/kemmojoo/cheat-sheets/see-sharp/
+

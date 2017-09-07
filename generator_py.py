@@ -1,5 +1,12 @@
+#!/usr/bin/python3
+# #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# # *-* coding: iso-8859-1 *-*
+# # -*- coding: latin-1 -*-
+
 # https://python.codnex.net/
 
+import  sys
 import random
 
 anrede = ["Frau", "Herr"];
@@ -16,32 +23,38 @@ subst_n = [" Auto", " Bad", " Bein", " Bett", " Bier", " Bild", " Br\u00f6tchen"
 # http://www.python-kurs.eu/bedingte_anweisungen.php
 # https://docs.python.org/2/library/random.html
 # http://www.python-kurs.eu/global_lokal.php
+# https://docs.python.org/2/library/array.html
+# http://www.i-programmer.info/programming/python/3942-arrays-in-python.html
+# http://pythoncentral.io/python-unicode-encode-decode-strings-python-2x/
+# https://www.python.org/dev/peps/pep-0263/
+# http://www.evanjones.ca/python-utf8.html
+# https://docs.python.org/2/howto/unicode.html
 
 def generatePersona():
 
   global anrede, nachname, vorname_f, vorname_m, location, subst_m, subst_f, subst_n;
 
   strout = "";
-  genderout = random.randint(0, len(anrede)-1)
+  genderout = str(anrede[random.randint(0, int(len(anrede)))])
   strout = genderout
   if (genderout == "Herr"):
-    strout += random.randint(0, len(vorname_m)-1)
+    strout += str(vorname_m[random.randint(0, int(len(vorname_m)))])
   else:
-    strout += random.randint(0, len(vorname_f)-1)
+    strout += str(vorname_f[random.randint(0, int(len(vorname_f)))])
 
-  strout += random.randint(0, len(nachname) - 1);
-  strout += ", ist momentan in "
-  strout += random.randint(0, len(location) - 1);
+  strout += str(nachname[random.randint(0, int(len(nachname)))]);
+  strout += str(", ist momentan in ")
+  strout += str(location[random.randint(0, int(len(location)))]);
 
-  kindernr = rand(0, 3);
+  kindernr = str(random.randint(0, 3));
   if (kindernr != 0):
-    strout += " mit seine " + kindernr + " kinder";
+    strout += str(" mit seine " + kindernr + " kinder");
 
 
   strout += " weil seine ( ";
-  strout += random.randint(0, len(subst_m) - 1) + " / ";
-  strout += random.randint(0, len(subst_f) - 1) + " / ";
-  strout += random.randint(0, len(subst_n) - 1);
+  strout += str(subst_m[random.randint(0, int(len(subst_m)))]) + " / ";
+  strout += str(subst_f[random.randint(0, int(len(subst_f)))]) + " / ";
+  strout += str(subst_n[random.randint(0, int(len(subst_n)))]);
   strout += " ) ... ";
 
   return strout
@@ -51,12 +64,11 @@ def generatePersona():
 def loopPersona(loop):
 
   strloop = "";
-  for i in range(0, 4):
-    	strloop = generatePersona()
+  for i in range(0, loop):
+    	strloop += str(generatePersona()) + "\n"
   return strloop;
 
 
 stroutlist = loopPersona(50);
-print stroutlist;
-
+print (stroutlist)
 

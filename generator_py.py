@@ -18,17 +18,6 @@ subst_m = ["Anruf", " Anzug", "Arm", "Arzt", " Ausweis", " Bahnhof", " Balkon", 
 subst_f = ["Adresse", " Apfelsine", " Apotheke", " Bank", " Bankkarte", " Bedienung", " Beschreibung", " Bestellung", " Bibliothek", " Bluse", " Brille", " Br\u00fccke", " City", " Cola", " Decke", " Diskette", " Dolmetscherin", " Dose", " Dusche", " Eile", " Einladung", " Etage", " Fahrkarte", " Festung", " Fotografie", " Frage", " Funktion", " Gabel", " Garage", " Gardine", " Gasse", " Gitarre", " Gr\u00f6\u00dfe", " Hilfe", " Hose", " H\u00fctte", " Information", " Kasse", " Kassette", " Kirche", " Krawatte", " Kreditkarte", " Kreide", " K\u00fcche", " Kultur", " Lampe", " Landkarte", " Landschaft", " Mandarine", " Maschine", " Maus", " Milch", " Mutter", " M\u00fctze", " Nachricht", " Nacht", " Nase", " Natur", " Nummer", " Oma", " Oper", " Ordnung", " Pause", " Pflanze", " Pizza", " Polizistin", " Post", " Postkarte", " Pr\u00fcfung", " Reparatur", " Reservierung", " Sache", " Sahne", " Schule", " Sehensw\u00fcrdigkeit", " SMS", " Socke", " Sonne", " Stra\u00dfe", " Stra\u00dfenbahn", " Tasche", " Tasse", " Toilette", " Torte", " U-Bahn", " \u00dcberraschung", " \u00dcbung", " Uhr", " Umwelt", " Universit\u00e4t", " Verbindung", " Wand", " Wanderung", " Welt", " Werbung", " Werkstatt", " Wirtschaft", " Woche", " Wurst", " Zeitung"];
 subst_n = [" Auto", " Bad", " Bein", " Bett", " Bier", " Bild", " Br\u00f6tchen", " Buch", " Caf\u00e9", " Einkaufszentrum", " Fahrrad", " Fest", " Flugzeug", " Foto", " Fr\u00e4ulein", " Fr\u00fchst\u00fcck", " Gef\u00fchl", " Gem\u00fcse", " Gesch\u00e4ft", " Glas", " Gleis", " Handy", " Haus", " Heft", " Hemd", " Hotel", " K\u00e4nnchen", " Internet", " Kind", " Kino", " Kleid", " Leben", " M\u00e4dchen", " Motorrad", " Museum", " Radio", " Regal", " Restaurant", " Schiff", " Schnitzel", " Sofa", " Spiel", " St\u00fcck", " Taxi", " Telefon", " Theater", " Ticket", " Tonbandger\u00e4t", " Warenhaus", " Wetter"];
 
-# https://www.tutorialspoint.com/python/python_if_else.htm
-# http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python
-# http://www.python-kurs.eu/bedingte_anweisungen.php
-# https://docs.python.org/2/library/random.html
-# http://www.python-kurs.eu/global_lokal.php
-# https://docs.python.org/2/library/array.html
-# http://www.i-programmer.info/programming/python/3942-arrays-in-python.html
-# http://pythoncentral.io/python-unicode-encode-decode-strings-python-2x/
-# https://www.python.org/dev/peps/pep-0263/
-# http://www.evanjones.ca/python-utf8.html
-# https://docs.python.org/2/howto/unicode.html
 
 def generatePersona():
 
@@ -71,4 +60,18 @@ def loopPersona(loop):
 
 stroutlist = loopPersona(50);
 print (stroutlist)
+
+
+
+# https://www.tutorialspoint.com/python/python_if_else.htm
+# http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python
+# http://www.python-kurs.eu/bedingte_anweisungen.php
+# https://docs.python.org/2/library/random.html
+# http://www.python-kurs.eu/global_lokal.php
+# https://docs.python.org/2/library/array.html
+# http://www.i-programmer.info/programming/python/3942-arrays-in-python.html
+# http://pythoncentral.io/python-unicode-encode-decode-strings-python-2x/
+# https://www.python.org/dev/peps/pep-0263/
+# http://www.evanjones.ca/python-utf8.html
+# https://docs.python.org/2/howto/unicode.html
 

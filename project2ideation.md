@@ -13,7 +13,7 @@ Now that you've had some time to consider APIs and MVC frameworks, it's time to 
 
 ## Ideation
 
-Create the idea for your project following the steps covered in our UX Crashcourse:
+Create the idea for your project following the steps covered in our UX Crash course:
 
 1. What am I making?
 2. Why am I making it in the first place?
@@ -21,17 +21,17 @@ Create the idea for your project following the steps covered in our UX Crashcour
 4. What kind of people will use it?
 5. How do I make it the best resource for them?
 
-Since we're just getting your MVC toolbelt set up, your project isn't required to be as revolutionary as what we brainstormed in the UX Crashcourse - but, you should still follow these basic steps to ensure a quality result.
+Since we're just getting your MVC toolset set up, your project isn't required to be as revolutionary as what we brainstormed in the UX Crash course - but, you should still follow these basic steps to ensure a quality result.
 
 ## Features
 
-In the coming week, we'll go indepth with ways to define models - but for today, start by writing down a list of "features" you'd want your app to perform. These can be things like:
+In the coming week, we'll go in depth with ways to define models - but for today, start by writing down a list of "features" you'd want your app to perform. These can be things like:
 
 1. Post a collection of song data into a page
 2. Sort an list of stock listing by price
 3. Accept a query in a form that makes an API request
 
-Having a list of these basic functions will help you in the wireframing proccess, and in your project planning in general.
+Having a list of these basic functions will help you in the wire-framing process, and in your project planning in general.
 
 ## Wireframing
 
@@ -45,7 +45,7 @@ There's a variety of tools you can use to accomplish this:
 - [Adobe Suite (Photoshop/Illustrator)](http://www.adobe.com/creativecloud.html)
 - [Balsamiq](https://balsamiq.com/)
 
-BONUS: If you go the digital route and create someting in Sketch or Adobe, you can prototype even more effectively with [InVision](https://www.invisionapp.com/) and [CRAFT](https://www.invisionapp.com/craft).
+BONUS: If you go the digital route and create something in Sketch or Adobe, you can prototype even more effectively with [InVision](https://www.invisionapp.com/) and [CRAFT](https://www.invisionapp.com/craft).
 
 
 Source

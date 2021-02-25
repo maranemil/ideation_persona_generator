@@ -4,7 +4,7 @@ Persona Random Generator for Ideation
 
 To Generate:
  
-* Person - > attribute ( age, name, married, childern,  )
+* Person - > attribute ( age, name, married, children, etc )
 * Location (town, shop, .... )
 * Situation ( verb - shopping, taking   )
 * Substantives

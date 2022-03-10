@@ -1,4 +1,4 @@
-<?php
+<?php /** @noinspection SpellCheckingInspection */
 /**
  * Created by PhpStorm.
  * User: lime
@@ -7,7 +7,7 @@
  */
 
 // http://phptester.net/
-$str    = "Club-Haus, Alter Bahnhof, Alter Botanischer Garten, Alter Markt, Altstadt";
+$str = "Club-Haus, Alter Bahnhof, Alter Botanischer Garten, Alter Markt, Altstadt";
 $strtmp = explode(",", $str);
 echo "<textarea>";
 echo json_encode($strtmp, true);
